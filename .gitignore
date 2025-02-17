@@ -1,0 +1,14 @@
+# Ignore compiled files and binaries
+*.exe
+*.out
+*.o
+*.cm
+*.uo
+*.ui
+
+# Ignore SML/NJ cache files
+CM/
+CM.make/
+heap/
+sml.*
+__*
